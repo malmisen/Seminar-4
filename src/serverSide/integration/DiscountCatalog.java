@@ -13,7 +13,7 @@ public class DiscountCatalog {
     private int[] vipCustomers = {1, 2, 3, 4};
     private double totalDiscount;
 
-    /**you
+    /**
      * Create a new instance
      */
     public DiscountCatalog(Item[] inStoreItems){
